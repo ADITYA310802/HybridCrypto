@@ -1,0 +1,16 @@
+.button-container {
+    text-align: center;
+    text-decoration: none;
+}
+
+.button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #c0f7c1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
